@@ -1,0 +1,26 @@
+body {
+  color: #fff;
+  background-color: #013909;
+}
+img {
+  padding-right: 10px;
+}
+.row {
+  margin: 0;
+}
+.title, .master, .scores, .hitandstaybuttons {
+  text-align: center
+}
+.master {
+  margin-top: 120px;
+}
+.pcard3, .pcard4, .pcard5, .dcard3, .dcard4, .dcard5 {
+  display: none;
+}
+.hitandstaybuttons {
+  visibility: hidden;
+}
+.dealerautohittext {
+  font-size: 18px;
+  color: #e32d2d;
+}
